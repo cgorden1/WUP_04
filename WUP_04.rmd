@@ -78,3 +78,5 @@ From our inferential results we can tell that only 2 factors are different which
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+To analyze the data I used the box plot which showed us multiple ones were most likely different and multiple variables were most likely the same. We also used the numerical results which showed us the medians. Lastly we used the inferential results to show us that there is a 95% probability that only 2 variables are different. The variables are LT high school and high school graduates. 
