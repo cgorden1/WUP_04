@@ -30,7 +30,7 @@ $H_a$ There is a significant difference in average score on the WORDSUM test bet
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-To do this variable analysis I will be using the numerical cat file to analyze the data
+To do this variable analysis I will be using the numerical cat file to analyze the data, using the box plot as my graphical data, the numerical results, and the inferential tests. 
 
 # Results
 
